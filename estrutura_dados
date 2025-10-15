@@ -1,0 +1,3 @@
+lista = ['pepino', 'Abacaxi', 'Laranja', 'Uva', 'Mamão', 'Banana']
+
+print(lista)
