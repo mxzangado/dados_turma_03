@@ -1,2 +1,6 @@
-lista.sort()  # Ordena uma lista em ordem alfabetica
+# Transformando uma lista em uma tupla
+lista = ['Pepino', 'Pimentão', 'Manga', 'Laranja', 'Abacate', 'Tomate']
 print(lista)
+
+tupla = tuple(lista)
+print(tupla)
