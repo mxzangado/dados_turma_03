@@ -1,3 +1,2 @@
-lista = ['pepino', 'Abacaxi', 'Laranja', 'Uva', 'Mamão', 'Banana']
-
+lista.sort()  # Ordena uma lista em ordem alfabetica
 print(lista)
