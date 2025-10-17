@@ -1,4 +1,5 @@
-# Criar um dicionário com nome, idade, gênero de uma pessoa
+# Criando uma lista usando laço de repetição for.
+# recebi um quantidade especifica no for
+lista_frutas = [input('Nome da fruta: ')for i in range(3)]
 
-pessoa = {'nome': 'joao', 'idade': 25,'genero':'masculino',}
-print(pessoa)
+print(f'Lista de frutas:{lista_frutas}')
