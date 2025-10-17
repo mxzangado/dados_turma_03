@@ -5,4 +5,4 @@ passo rumo ao domínio da tecnologia. Acredite no seu potencial, insista
 nos desafios e celebre cada conquista. Com dedicação e prática, você vai
 transformar ideias em soluções reais. A TREINARECIFE está aqui para te
 direcionar e te manter no caminho certo'''
-print(texto[::-1]) #Usa se [::-1] para inverte o texto 
+print(texto.lower()) #Usa se [::-1] para inverte o texto 
