@@ -1,6 +1,8 @@
-# O while executa as instruções internas ao laço enquanto a condição for verdadeira, veja a sintaxe
-#  Sim! enquanto 5 for menor igual a 9 o while vai retornar pra 6, 7 , 8 comparando até chegar no 9 10 encerra
-num = 5 
-while (num <= 9):  # O numero 5 representado por num aqui while 5 é menor ou igual a 9?
-    num = num + 1 # aqui recebe mais um para iniciar a comparação
-    print(num)   
+'''1. Mostre o texto invertido.'''
+# texto com quebra de várias linha não precisa de está entre parênteses, basta 3 aspas simples ou duplas ou apóstofes
+texto = '''Aprender Python é abrir portas para o futuro. Cada linha de código é um
+passo rumo ao domínio da tecnologia. Acredite no seu potencial, insista
+nos desafios e celebre cada conquista. Com dedicação e prática, você vai
+transformar ideias em soluções reais. A TREINARECIFE está aqui para te
+direcionar e te manter no caminho certo'''
+print(texto[::-1]) #Usa se [::-1] para inverte o texto 
